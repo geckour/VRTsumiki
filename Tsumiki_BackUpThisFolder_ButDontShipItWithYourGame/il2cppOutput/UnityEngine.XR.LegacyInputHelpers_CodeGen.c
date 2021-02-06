@@ -1,0 +1,487 @@
+﻿#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+
+
+
+// 0x00000001 UnityEngine.GameObject UnityEditor.XR.LegacyInputHelpers.CameraOffset::get_cameraFloorOffsetObject()
+extern void CameraOffset_get_cameraFloorOffsetObject_m59CECE40D39A6E21E54C681DF47314D6BF3E8670 (void);
+// 0x00000002 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::set_cameraFloorOffsetObject(UnityEngine.GameObject)
+extern void CameraOffset_set_cameraFloorOffsetObject_mD44DC44A71E11A3B67E1B658772D9C20320982BB (void);
+// 0x00000003 UnityEditor.XR.LegacyInputHelpers.UserRequestedTrackingMode UnityEditor.XR.LegacyInputHelpers.CameraOffset::get_requestedTrackingMode()
+extern void CameraOffset_get_requestedTrackingMode_m951345CC388C1955DEB07154827134F9E21743C2 (void);
+// 0x00000004 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::set_requestedTrackingMode(UnityEditor.XR.LegacyInputHelpers.UserRequestedTrackingMode)
+extern void CameraOffset_set_requestedTrackingMode_m70B7D4E2D875C6C570F16AF349BC398B28CEA326 (void);
+// 0x00000005 UnityEngine.XR.TrackingOriginModeFlags UnityEditor.XR.LegacyInputHelpers.CameraOffset::get_TrackingOriginMode()
+extern void CameraOffset_get_TrackingOriginMode_mC876F33F17291A502FFA4885B989942E564D94B2 (void);
+// 0x00000006 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::set_TrackingOriginMode(UnityEngine.XR.TrackingOriginModeFlags)
+extern void CameraOffset_set_TrackingOriginMode_mB20A2F79A8AD7FD8AEF0083623618D11B38D957D (void);
+// 0x00000007 UnityEngine.XR.TrackingSpaceType UnityEditor.XR.LegacyInputHelpers.CameraOffset::get_trackingSpace()
+extern void CameraOffset_get_trackingSpace_mD7BD0F0080889A37AC0B3526D1703986BE551E0B (void);
+// 0x00000008 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::set_trackingSpace(UnityEngine.XR.TrackingSpaceType)
+extern void CameraOffset_set_trackingSpace_m7C4D0EF85EF6310AEC65C24EC7A7648424D8B7A7 (void);
+// 0x00000009 System.Single UnityEditor.XR.LegacyInputHelpers.CameraOffset::get_cameraYOffset()
+extern void CameraOffset_get_cameraYOffset_m179605BA4EF979AB40395A8BB00E4AA7A9355C7E (void);
+// 0x0000000A System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::set_cameraYOffset(System.Single)
+extern void CameraOffset_set_cameraYOffset_m012958C7B6A0BFFD042A771CEAC569744BA3D827 (void);
+// 0x0000000B System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::UpgradeTrackingSpaceToTrackingOriginMode()
+extern void CameraOffset_UpgradeTrackingSpaceToTrackingOriginMode_m2A4EBBD897548A9C6084023972030530F722BFF5 (void);
+// 0x0000000C System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::Awake()
+extern void CameraOffset_Awake_m7A94421CE8DE26F43CF4D9D41D7BB53F62681AF7 (void);
+// 0x0000000D System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::Start()
+extern void CameraOffset_Start_m1E303E2B6C4118FED517B8CA49A9189CEF00D9B1 (void);
+// 0x0000000E System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::OnValidate()
+extern void CameraOffset_OnValidate_m7CF4C2139FA449701D2321BCB2466EFC65698E65 (void);
+// 0x0000000F System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::TryInitializeCamera()
+extern void CameraOffset_TryInitializeCamera_mCAA11F59A52C3EB749D33700CA195F14CB46D302 (void);
+// 0x00000010 System.Collections.IEnumerator UnityEditor.XR.LegacyInputHelpers.CameraOffset::RepeatInitializeCamera()
+extern void CameraOffset_RepeatInitializeCamera_mC704BE5F9265B5B13BC23E7BFA4EB531F08AF26A (void);
+// 0x00000011 System.Boolean UnityEditor.XR.LegacyInputHelpers.CameraOffset::SetupCamera()
+extern void CameraOffset_SetupCamera_m95B814ACABD4CE821EF65F872C01819D190DEC15 (void);
+// 0x00000012 System.Boolean UnityEditor.XR.LegacyInputHelpers.CameraOffset::SetupCamera(UnityEngine.XR.XRInputSubsystem)
+extern void CameraOffset_SetupCamera_mBEEAA13DA8BDE9D6A4FFE3AB434CBEC562A60926 (void);
+// 0x00000013 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::SetupCameraLegacy(UnityEngine.XR.TrackingSpaceType)
+extern void CameraOffset_SetupCameraLegacy_mA23BE3667BFF01CC7E0C7B4FB9390B26C11A34E2 (void);
+// 0x00000014 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::.ctor()
+extern void CameraOffset__ctor_m32E2210051C09464D768B5DCBB1674D8F9EA5E87 (void);
+// 0x00000015 System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset::.cctor()
+extern void CameraOffset__cctor_mD0A9B0A22844EEE32A3682C1E54291EA6E7FD637 (void);
+// 0x00000016 UnityEngine.SpatialTracking.PoseDataFlags UnityEngine.XR.LegacyInputHelpers.ArmModel::GetPoseFromProvider(UnityEngine.Pose&)
+extern void ArmModel_GetPoseFromProvider_mDB806260D7866C6D0C9CA460BDBD8FF3823ECCE6 (void);
+// 0x00000017 UnityEngine.Pose UnityEngine.XR.LegacyInputHelpers.ArmModel::get_finalPose()
+extern void ArmModel_get_finalPose_mD3B9995AB4D903424BA317A215E8085250FAD033 (void);
+// 0x00000018 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_finalPose(UnityEngine.Pose)
+extern void ArmModel_set_finalPose_m6C490D419B78FC61209C2007DBE44EF0522596BB (void);
+// 0x00000019 UnityEngine.XR.XRNode UnityEngine.XR.LegacyInputHelpers.ArmModel::get_poseSource()
+extern void ArmModel_get_poseSource_m24F54C3405E8C9D6E4E233AE4181DE578B7EC33B (void);
+// 0x0000001A System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_poseSource(UnityEngine.XR.XRNode)
+extern void ArmModel_set_poseSource_m78863C8C42D0E4DBF9069D48269C12BF3C5F067E (void);
+// 0x0000001B UnityEngine.XR.XRNode UnityEngine.XR.LegacyInputHelpers.ArmModel::get_headGameObject()
+extern void ArmModel_get_headGameObject_m8B1BDF17AB29C0EFD064DFEB2A17CC9472E539F8 (void);
+// 0x0000001C System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_headGameObject(UnityEngine.XR.XRNode)
+extern void ArmModel_set_headGameObject_m42830D417C7D1A37ED9958478109C5EC56259E75 (void);
+// 0x0000001D UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_elbowRestPosition()
+extern void ArmModel_get_elbowRestPosition_m29575157CAAB36B4E431A2DE04685678DEBD762A (void);
+// 0x0000001E System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_elbowRestPosition(UnityEngine.Vector3)
+extern void ArmModel_set_elbowRestPosition_mC1312968C977D9D4536D88D393AF55608301B560 (void);
+// 0x0000001F UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_wristRestPosition()
+extern void ArmModel_get_wristRestPosition_mDB54EBFCCAB06C25039BB9A0388A37F779354F1C (void);
+// 0x00000020 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_wristRestPosition(UnityEngine.Vector3)
+extern void ArmModel_set_wristRestPosition_m0540BF44669B3876A3F317556C50F53EA23A33E8 (void);
+// 0x00000021 UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_controllerRestPosition()
+extern void ArmModel_get_controllerRestPosition_m7793B0627D5FE653E88B1464B7211692B55AA233 (void);
+// 0x00000022 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_controllerRestPosition(UnityEngine.Vector3)
+extern void ArmModel_set_controllerRestPosition_mBAE40015F02E3FBEA195E1F4F054145C410C232C (void);
+// 0x00000023 UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_armExtensionOffset()
+extern void ArmModel_get_armExtensionOffset_mCE0008FACC466E0D3B52B87F30E81B768260097D (void);
+// 0x00000024 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_armExtensionOffset(UnityEngine.Vector3)
+extern void ArmModel_set_armExtensionOffset_m77E0AE2C020754036EE79365B8C26D5B48C69918 (void);
+// 0x00000025 System.Single UnityEngine.XR.LegacyInputHelpers.ArmModel::get_elbowBendRatio()
+extern void ArmModel_get_elbowBendRatio_mD0BEFFDA120D0318CFD9F03DD7A85741A84FB82B (void);
+// 0x00000026 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_elbowBendRatio(System.Single)
+extern void ArmModel_set_elbowBendRatio_mD74CCC06E20B7F46A3BE968347B1EE26C501D258 (void);
+// 0x00000027 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::get_isLockedToNeck()
+extern void ArmModel_get_isLockedToNeck_m9F8820CD36AA025750F1A20EDB32CC3E03FDAFD1 (void);
+// 0x00000028 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::set_isLockedToNeck(System.Boolean)
+extern void ArmModel_set_isLockedToNeck_mA615E4111216414E0D9D45BB1F964AD09A37028F (void);
+// 0x00000029 UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_neckPosition()
+extern void ArmModel_get_neckPosition_mCB262A3B2066C1B87F560B10B498EEEB50D31B15 (void);
+// 0x0000002A UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_shoulderPosition()
+extern void ArmModel_get_shoulderPosition_mB75161B5741A489BB5A81B16615920F8B4D39790 (void);
+// 0x0000002B UnityEngine.Quaternion UnityEngine.XR.LegacyInputHelpers.ArmModel::get_shoulderRotation()
+extern void ArmModel_get_shoulderRotation_m24A2DFE18B6C47418AA10567087B623FB7A07360 (void);
+// 0x0000002C UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_elbowPosition()
+extern void ArmModel_get_elbowPosition_mD164603D41D61693BF1D5B7356DB11A634913D1D (void);
+// 0x0000002D UnityEngine.Quaternion UnityEngine.XR.LegacyInputHelpers.ArmModel::get_elbowRotation()
+extern void ArmModel_get_elbowRotation_m658B79613BBD51D0385FA7E0BBF40FBEDCD9BA7E (void);
+// 0x0000002E UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_wristPosition()
+extern void ArmModel_get_wristPosition_m56DD8A7111ACFF4280FA219A660B0E0EDD9E9AD9 (void);
+// 0x0000002F UnityEngine.Quaternion UnityEngine.XR.LegacyInputHelpers.ArmModel::get_wristRotation()
+extern void ArmModel_get_wristRotation_mAD076708A63D44E9FF091290F018EFA684A86825 (void);
+// 0x00000030 UnityEngine.Vector3 UnityEngine.XR.LegacyInputHelpers.ArmModel::get_controllerPosition()
+extern void ArmModel_get_controllerPosition_mE1194A28D7E181528665C521B5DB2349F7E6DEF3 (void);
+// 0x00000031 UnityEngine.Quaternion UnityEngine.XR.LegacyInputHelpers.ArmModel::get_controllerRotation()
+extern void ArmModel_get_controllerRotation_mFF96BD142F33F049391D72AAF8F53CA9BA09A64F (void);
+// 0x00000032 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::OnEnable()
+extern void ArmModel_OnEnable_mA9E47F8D9C7350BEE0E82FBE1855B63570CA965E (void);
+// 0x00000033 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::OnDisable()
+extern void ArmModel_OnDisable_m04C283B3AC22C690588A50E42737D4E27336327B (void);
+// 0x00000034 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::OnControllerInputUpdated()
+extern void ArmModel_OnControllerInputUpdated_mFB6A5C555049CAF5B7CF2510B2503B2456F981A0 (void);
+// 0x00000035 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::UpdateHandedness()
+extern void ArmModel_UpdateHandedness_m3F2FAE778D5896D62FD9DE0255AB62DC3D586D0E (void);
+// 0x00000036 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::UpdateTorsoDirection(System.Boolean)
+extern void ArmModel_UpdateTorsoDirection_m11E4E1564C91F575E8108F87A26CD2DA4C295971 (void);
+// 0x00000037 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::UpdateNeckPosition()
+extern void ArmModel_UpdateNeckPosition_mB5C842D7B269D56FCF2670173A86576AD2AB705C (void);
+// 0x00000038 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::ApplyArmModel()
+extern void ArmModel_ApplyArmModel_m1A19EE7463568C72239A964022C2F50C782DD19E (void);
+// 0x00000039 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::SetUntransformedJointPositions()
+extern void ArmModel_SetUntransformedJointPositions_mC447D930EF57E0BBA292A4B75D374DD1A2D0E535 (void);
+// 0x0000003A System.Single UnityEngine.XR.LegacyInputHelpers.ArmModel::CalculateExtensionRatio(System.Single)
+extern void ArmModel_CalculateExtensionRatio_mD5D73A95585CA8D853ECF272BC9DBACC81F1DC86 (void);
+// 0x0000003B System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::ApplyExtensionOffset(System.Single)
+extern void ArmModel_ApplyExtensionOffset_m353A0A37ED99B93D1A85C598FD5680CDDE6F7FC2 (void);
+// 0x0000003C UnityEngine.Quaternion UnityEngine.XR.LegacyInputHelpers.ArmModel::CalculateLerpRotation(UnityEngine.Quaternion,System.Single)
+extern void ArmModel_CalculateLerpRotation_mAD379B2D70BC43747DD84C5A5789F34943DEBDA2 (void);
+// 0x0000003D System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::CalculateFinalJointRotations(UnityEngine.Quaternion,UnityEngine.Quaternion,UnityEngine.Quaternion)
+extern void ArmModel_CalculateFinalJointRotations_m5525B9E8D8536B78C0D209D1E2404AEF79BDA64A (void);
+// 0x0000003E System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::ApplyRotationToJoints()
+extern void ArmModel_ApplyRotationToJoints_m5C2502E5D9357036C7EBAF808C4B901E0B96F773 (void);
+// 0x0000003F System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::ApplyInverseNeckModel(UnityEngine.Vector3,UnityEngine.Vector3&)
+extern void ArmModel_ApplyInverseNeckModel_mE7E8842A6D94ACC2FCC3FE6BD08696924F64D48D (void);
+// 0x00000040 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::TryGetForwardVector(UnityEngine.XR.XRNode,UnityEngine.Vector3&)
+extern void ArmModel_TryGetForwardVector_m8A8A196699D6723AD4BCE5413615EB7CB7BE4A56 (void);
+// 0x00000041 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::TryGetRotation(UnityEngine.XR.XRNode,UnityEngine.Quaternion&)
+extern void ArmModel_TryGetRotation_m9406C9ED5E37FA0023A3C645D6D608EC91FCAE8B (void);
+// 0x00000042 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::TryGetPosition(UnityEngine.XR.XRNode,UnityEngine.Vector3&)
+extern void ArmModel_TryGetPosition_mB48EAB4D5C8B59D52FF2B88C17D500378EC79290 (void);
+// 0x00000043 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::TryGetAngularAcceleration(UnityEngine.XR.XRNode,UnityEngine.Vector3&)
+extern void ArmModel_TryGetAngularAcceleration_mDA0B0E023E878DD878877CB14A7AEF0932CBB145 (void);
+// 0x00000044 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::TryGetAngularVelocity(UnityEngine.XR.XRNode,UnityEngine.Vector3&)
+extern void ArmModel_TryGetAngularVelocity_mD8018D93E0FFE5C0B4AABFD517E01AB93474C474 (void);
+// 0x00000045 System.Boolean UnityEngine.XR.LegacyInputHelpers.ArmModel::GetControllerRotation(UnityEngine.Quaternion&,UnityEngine.Quaternion&,System.Single&)
+extern void ArmModel_GetControllerRotation_m3AA2C877C77E9C72CF970C36B25905CEFC19B2D9 (void);
+// 0x00000046 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::.ctor()
+extern void ArmModel__ctor_m923FA495F842BF9DA2B0C50180E9498CEBCAB838 (void);
+// 0x00000047 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModel::.cctor()
+extern void ArmModel__cctor_mD596D096B222A2BF61812D94C196788702354150 (void);
+// 0x00000048 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_shoulderRotationRatio()
+extern void SwingArmModel_get_shoulderRotationRatio_mE18BB4D8C8E0654A420CC2E0A4163671B7892423 (void);
+// 0x00000049 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_shoulderRotationRatio(System.Single)
+extern void SwingArmModel_set_shoulderRotationRatio_m999657F45E85AEC0E158EC90CEB03307ED7FFA08 (void);
+// 0x0000004A System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_elbowRotationRatio()
+extern void SwingArmModel_get_elbowRotationRatio_m92FA99E8C1102C09A4D80C863E7C8F9073154C6A (void);
+// 0x0000004B System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_elbowRotationRatio(System.Single)
+extern void SwingArmModel_set_elbowRotationRatio_m477988D736757DCB770E7DF07C2A63AF621EE5DE (void);
+// 0x0000004C System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_wristRotationRatio()
+extern void SwingArmModel_get_wristRotationRatio_mAB71B1D35787708317F807D2F87B9F8170E09D74 (void);
+// 0x0000004D System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_wristRotationRatio(System.Single)
+extern void SwingArmModel_set_wristRotationRatio_m209F4BD1B98607E76764CA1C40F574166EC0F2C9 (void);
+// 0x0000004E System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_minJointShiftAngle()
+extern void SwingArmModel_get_minJointShiftAngle_mD1392AB1D9B003AA0CA1665ACE5CF6E35DF0C193 (void);
+// 0x0000004F System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_minJointShiftAngle(System.Single)
+extern void SwingArmModel_set_minJointShiftAngle_mE6F9BECC847DF0E4A4EFA25E93BBC20EB8607B7B (void);
+// 0x00000050 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_maxJointShiftAngle()
+extern void SwingArmModel_get_maxJointShiftAngle_m06932904B55880C096F92E35AB5EEA5D05703014 (void);
+// 0x00000051 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_maxJointShiftAngle(System.Single)
+extern void SwingArmModel_set_maxJointShiftAngle_m7D79990909494637D45C6F33DCE32CDAE3C7D8FA (void);
+// 0x00000052 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_jointShiftExponent()
+extern void SwingArmModel_get_jointShiftExponent_m9381E873D6E41ECD5ED98BE464BFFD60531406C8 (void);
+// 0x00000053 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_jointShiftExponent(System.Single)
+extern void SwingArmModel_set_jointShiftExponent_mD2A78F99B74BD015BB133ED9DB6D0386F5173544 (void);
+// 0x00000054 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_shiftedShoulderRotationRatio()
+extern void SwingArmModel_get_shiftedShoulderRotationRatio_m5385028E0FD2E075416DA3F01CB0CA90BFD842A4 (void);
+// 0x00000055 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_shiftedShoulderRotationRatio(System.Single)
+extern void SwingArmModel_set_shiftedShoulderRotationRatio_mC694BC16C0A68F45CF48FA75526B20C6A3D2CE5A (void);
+// 0x00000056 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_shiftedElbowRotationRatio()
+extern void SwingArmModel_get_shiftedElbowRotationRatio_mA505E42BD23635FB2A49B22B537542523EE89241 (void);
+// 0x00000057 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_shiftedElbowRotationRatio(System.Single)
+extern void SwingArmModel_set_shiftedElbowRotationRatio_m9E5A47BC77D79326BE244566946DF0C831B92BF3 (void);
+// 0x00000058 System.Single UnityEngine.XR.LegacyInputHelpers.SwingArmModel::get_shiftedWristRotationRatio()
+extern void SwingArmModel_get_shiftedWristRotationRatio_m42A37604F72E2895EC75C18A710E3C09FA05AAA0 (void);
+// 0x00000059 System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::set_shiftedWristRotationRatio(System.Single)
+extern void SwingArmModel_set_shiftedWristRotationRatio_m195C4EAE94688F879DD3DD1C960E6378B037FE32 (void);
+// 0x0000005A System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::CalculateFinalJointRotations(UnityEngine.Quaternion,UnityEngine.Quaternion,UnityEngine.Quaternion)
+extern void SwingArmModel_CalculateFinalJointRotations_m0D59DAF7F27D8CC3513DA4BF000A476ABD265872 (void);
+// 0x0000005B System.Void UnityEngine.XR.LegacyInputHelpers.SwingArmModel::.ctor()
+extern void SwingArmModel__ctor_mC5CABBAA2C1E63A6A1AB4AA731B33C35C796FFA7 (void);
+// 0x0000005C System.String UnityEngine.XR.LegacyInputHelpers.ArmModelTransition::get_transitionKeyName()
+extern void ArmModelTransition_get_transitionKeyName_m4921E2CB3E2461E113D2C61E82F17F9AC7CD1D83 (void);
+// 0x0000005D System.Void UnityEngine.XR.LegacyInputHelpers.ArmModelTransition::set_transitionKeyName(System.String)
+extern void ArmModelTransition_set_transitionKeyName_m0A84BDF5D3FB50B3DC772276192B496490BFF595 (void);
+// 0x0000005E UnityEngine.XR.LegacyInputHelpers.ArmModel UnityEngine.XR.LegacyInputHelpers.ArmModelTransition::get_armModel()
+extern void ArmModelTransition_get_armModel_mC69193F90AE562A734A973A9087F2B050413DD0F (void);
+// 0x0000005F System.Void UnityEngine.XR.LegacyInputHelpers.ArmModelTransition::set_armModel(UnityEngine.XR.LegacyInputHelpers.ArmModel)
+extern void ArmModelTransition_set_armModel_m995AEEC0782699644B58E5038CDEB343EE6FD15C (void);
+// 0x00000060 System.Void UnityEngine.XR.LegacyInputHelpers.ArmModelTransition::.ctor()
+extern void ArmModelTransition__ctor_mC9F1C1AE33C8B3F81EA5504E6AB0D0E522E2C9B0 (void);
+// 0x00000061 UnityEngine.XR.LegacyInputHelpers.ArmModel UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::get_currentArmModelComponent()
+extern void TransitionArmModel_get_currentArmModelComponent_m404661E224BDF00DB599E387A86C4CA1D890DD96 (void);
+// 0x00000062 System.Void UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::set_currentArmModelComponent(UnityEngine.XR.LegacyInputHelpers.ArmModel)
+extern void TransitionArmModel_set_currentArmModelComponent_m6BB7B85AC38578482F2E84CCF1E53AF070D89329 (void);
+// 0x00000063 System.Boolean UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::Queue(System.String)
+extern void TransitionArmModel_Queue_m421B9D1BD17E685EA5920A2F479A164212241F84 (void);
+// 0x00000064 System.Void UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::Queue(UnityEngine.XR.LegacyInputHelpers.ArmModel)
+extern void TransitionArmModel_Queue_mBCE6B344D26F6D39517BA9E2F9F78990FD8F40CB (void);
+// 0x00000065 System.Void UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::RemoveJustStartingTransitions()
+extern void TransitionArmModel_RemoveJustStartingTransitions_m953D994D076E6F93C99630AEBEEBB329E6D6A99B (void);
+// 0x00000066 System.Void UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::RemoveOldestTransition()
+extern void TransitionArmModel_RemoveOldestTransition_m608FCE3471422FA847E4ED8B312DF7BE9B2E8387 (void);
+// 0x00000067 UnityEngine.SpatialTracking.PoseDataFlags UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::GetPoseFromProvider(UnityEngine.Pose&)
+extern void TransitionArmModel_GetPoseFromProvider_m00E26A7E6F311767928AE21A5F15312DE22662F5 (void);
+// 0x00000068 System.Boolean UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::UpdateBlends()
+extern void TransitionArmModel_UpdateBlends_m2045B9BBA0377ECAF7941D7DF432B38C2B6A9DF1 (void);
+// 0x00000069 System.Void UnityEngine.XR.LegacyInputHelpers.TransitionArmModel::.ctor()
+extern void TransitionArmModel__ctor_m84EB9610E749854578C03329B11E4FDA09B75CD7 (void);
+// 0x0000006A System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::.ctor(System.Int32)
+extern void U3CRepeatInitializeCameraU3Ed__29__ctor_m43D6285C7E009567F5C4B8ED1A751836C62FB4AB (void);
+// 0x0000006B System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::System.IDisposable.Dispose()
+extern void U3CRepeatInitializeCameraU3Ed__29_System_IDisposable_Dispose_m17F14A09DBD73876EE2966D2A514388CC4341C1C (void);
+// 0x0000006C System.Boolean UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::MoveNext()
+extern void U3CRepeatInitializeCameraU3Ed__29_MoveNext_mC58A32CCA720E6716563B3307D1BC42812BED55D (void);
+// 0x0000006D System.Object UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CRepeatInitializeCameraU3Ed__29_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m43B90A8CE01AC6A6E1649E1E6D391B16AEDA14C2 (void);
+// 0x0000006E System.Void UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::System.Collections.IEnumerator.Reset()
+extern void U3CRepeatInitializeCameraU3Ed__29_System_Collections_IEnumerator_Reset_mE8B6F31805AB346EED4CCC65D0DC466AAD71108A (void);
+// 0x0000006F System.Object UnityEditor.XR.LegacyInputHelpers.CameraOffset_<RepeatInitializeCamera>d__29::System.Collections.IEnumerator.get_Current()
+extern void U3CRepeatInitializeCameraU3Ed__29_System_Collections_IEnumerator_get_Current_m54DAB7B21E930CDFF72500887B8D062A468AEF4E (void);
+static Il2CppMethodPointer s_methodPointers[111] = 
+{
+	CameraOffset_get_cameraFloorOffsetObject_m59CECE40D39A6E21E54C681DF47314D6BF3E8670,
+	CameraOffset_set_cameraFloorOffsetObject_mD44DC44A71E11A3B67E1B658772D9C20320982BB,
+	CameraOffset_get_requestedTrackingMode_m951345CC388C1955DEB07154827134F9E21743C2,
+	CameraOffset_set_requestedTrackingMode_m70B7D4E2D875C6C570F16AF349BC398B28CEA326,
+	CameraOffset_get_TrackingOriginMode_mC876F33F17291A502FFA4885B989942E564D94B2,
+	CameraOffset_set_TrackingOriginMode_mB20A2F79A8AD7FD8AEF0083623618D11B38D957D,
+	CameraOffset_get_trackingSpace_mD7BD0F0080889A37AC0B3526D1703986BE551E0B,
+	CameraOffset_set_trackingSpace_m7C4D0EF85EF6310AEC65C24EC7A7648424D8B7A7,
+	CameraOffset_get_cameraYOffset_m179605BA4EF979AB40395A8BB00E4AA7A9355C7E,
+	CameraOffset_set_cameraYOffset_m012958C7B6A0BFFD042A771CEAC569744BA3D827,
+	CameraOffset_UpgradeTrackingSpaceToTrackingOriginMode_m2A4EBBD897548A9C6084023972030530F722BFF5,
+	CameraOffset_Awake_m7A94421CE8DE26F43CF4D9D41D7BB53F62681AF7,
+	CameraOffset_Start_m1E303E2B6C4118FED517B8CA49A9189CEF00D9B1,
+	CameraOffset_OnValidate_m7CF4C2139FA449701D2321BCB2466EFC65698E65,
+	CameraOffset_TryInitializeCamera_mCAA11F59A52C3EB749D33700CA195F14CB46D302,
+	CameraOffset_RepeatInitializeCamera_mC704BE5F9265B5B13BC23E7BFA4EB531F08AF26A,
+	CameraOffset_SetupCamera_m95B814ACABD4CE821EF65F872C01819D190DEC15,
+	CameraOffset_SetupCamera_mBEEAA13DA8BDE9D6A4FFE3AB434CBEC562A60926,
+	CameraOffset_SetupCameraLegacy_mA23BE3667BFF01CC7E0C7B4FB9390B26C11A34E2,
+	CameraOffset__ctor_m32E2210051C09464D768B5DCBB1674D8F9EA5E87,
+	CameraOffset__cctor_mD0A9B0A22844EEE32A3682C1E54291EA6E7FD637,
+	ArmModel_GetPoseFromProvider_mDB806260D7866C6D0C9CA460BDBD8FF3823ECCE6,
+	ArmModel_get_finalPose_mD3B9995AB4D903424BA317A215E8085250FAD033,
+	ArmModel_set_finalPose_m6C490D419B78FC61209C2007DBE44EF0522596BB,
+	ArmModel_get_poseSource_m24F54C3405E8C9D6E4E233AE4181DE578B7EC33B,
+	ArmModel_set_poseSource_m78863C8C42D0E4DBF9069D48269C12BF3C5F067E,
+	ArmModel_get_headGameObject_m8B1BDF17AB29C0EFD064DFEB2A17CC9472E539F8,
+	ArmModel_set_headGameObject_m42830D417C7D1A37ED9958478109C5EC56259E75,
+	ArmModel_get_elbowRestPosition_m29575157CAAB36B4E431A2DE04685678DEBD762A,
+	ArmModel_set_elbowRestPosition_mC1312968C977D9D4536D88D393AF55608301B560,
+	ArmModel_get_wristRestPosition_mDB54EBFCCAB06C25039BB9A0388A37F779354F1C,
+	ArmModel_set_wristRestPosition_m0540BF44669B3876A3F317556C50F53EA23A33E8,
+	ArmModel_get_controllerRestPosition_m7793B0627D5FE653E88B1464B7211692B55AA233,
+	ArmModel_set_controllerRestPosition_mBAE40015F02E3FBEA195E1F4F054145C410C232C,
+	ArmModel_get_armExtensionOffset_mCE0008FACC466E0D3B52B87F30E81B768260097D,
+	ArmModel_set_armExtensionOffset_m77E0AE2C020754036EE79365B8C26D5B48C69918,
+	ArmModel_get_elbowBendRatio_mD0BEFFDA120D0318CFD9F03DD7A85741A84FB82B,
+	ArmModel_set_elbowBendRatio_mD74CCC06E20B7F46A3BE968347B1EE26C501D258,
+	ArmModel_get_isLockedToNeck_m9F8820CD36AA025750F1A20EDB32CC3E03FDAFD1,
+	ArmModel_set_isLockedToNeck_mA615E4111216414E0D9D45BB1F964AD09A37028F,
+	ArmModel_get_neckPosition_mCB262A3B2066C1B87F560B10B498EEEB50D31B15,
+	ArmModel_get_shoulderPosition_mB75161B5741A489BB5A81B16615920F8B4D39790,
+	ArmModel_get_shoulderRotation_m24A2DFE18B6C47418AA10567087B623FB7A07360,
+	ArmModel_get_elbowPosition_mD164603D41D61693BF1D5B7356DB11A634913D1D,
+	ArmModel_get_elbowRotation_m658B79613BBD51D0385FA7E0BBF40FBEDCD9BA7E,
+	ArmModel_get_wristPosition_m56DD8A7111ACFF4280FA219A660B0E0EDD9E9AD9,
+	ArmModel_get_wristRotation_mAD076708A63D44E9FF091290F018EFA684A86825,
+	ArmModel_get_controllerPosition_mE1194A28D7E181528665C521B5DB2349F7E6DEF3,
+	ArmModel_get_controllerRotation_mFF96BD142F33F049391D72AAF8F53CA9BA09A64F,
+	ArmModel_OnEnable_mA9E47F8D9C7350BEE0E82FBE1855B63570CA965E,
+	ArmModel_OnDisable_m04C283B3AC22C690588A50E42737D4E27336327B,
+	ArmModel_OnControllerInputUpdated_mFB6A5C555049CAF5B7CF2510B2503B2456F981A0,
+	ArmModel_UpdateHandedness_m3F2FAE778D5896D62FD9DE0255AB62DC3D586D0E,
+	ArmModel_UpdateTorsoDirection_m11E4E1564C91F575E8108F87A26CD2DA4C295971,
+	ArmModel_UpdateNeckPosition_mB5C842D7B269D56FCF2670173A86576AD2AB705C,
+	ArmModel_ApplyArmModel_m1A19EE7463568C72239A964022C2F50C782DD19E,
+	ArmModel_SetUntransformedJointPositions_mC447D930EF57E0BBA292A4B75D374DD1A2D0E535,
+	ArmModel_CalculateExtensionRatio_mD5D73A95585CA8D853ECF272BC9DBACC81F1DC86,
+	ArmModel_ApplyExtensionOffset_m353A0A37ED99B93D1A85C598FD5680CDDE6F7FC2,
+	ArmModel_CalculateLerpRotation_mAD379B2D70BC43747DD84C5A5789F34943DEBDA2,
+	ArmModel_CalculateFinalJointRotations_m5525B9E8D8536B78C0D209D1E2404AEF79BDA64A,
+	ArmModel_ApplyRotationToJoints_m5C2502E5D9357036C7EBAF808C4B901E0B96F773,
+	ArmModel_ApplyInverseNeckModel_mE7E8842A6D94ACC2FCC3FE6BD08696924F64D48D,
+	ArmModel_TryGetForwardVector_m8A8A196699D6723AD4BCE5413615EB7CB7BE4A56,
+	ArmModel_TryGetRotation_m9406C9ED5E37FA0023A3C645D6D608EC91FCAE8B,
+	ArmModel_TryGetPosition_mB48EAB4D5C8B59D52FF2B88C17D500378EC79290,
+	ArmModel_TryGetAngularAcceleration_mDA0B0E023E878DD878877CB14A7AEF0932CBB145,
+	ArmModel_TryGetAngularVelocity_mD8018D93E0FFE5C0B4AABFD517E01AB93474C474,
+	ArmModel_GetControllerRotation_m3AA2C877C77E9C72CF970C36B25905CEFC19B2D9,
+	ArmModel__ctor_m923FA495F842BF9DA2B0C50180E9498CEBCAB838,
+	ArmModel__cctor_mD596D096B222A2BF61812D94C196788702354150,
+	SwingArmModel_get_shoulderRotationRatio_mE18BB4D8C8E0654A420CC2E0A4163671B7892423,
+	SwingArmModel_set_shoulderRotationRatio_m999657F45E85AEC0E158EC90CEB03307ED7FFA08,
+	SwingArmModel_get_elbowRotationRatio_m92FA99E8C1102C09A4D80C863E7C8F9073154C6A,
+	SwingArmModel_set_elbowRotationRatio_m477988D736757DCB770E7DF07C2A63AF621EE5DE,
+	SwingArmModel_get_wristRotationRatio_mAB71B1D35787708317F807D2F87B9F8170E09D74,
+	SwingArmModel_set_wristRotationRatio_m209F4BD1B98607E76764CA1C40F574166EC0F2C9,
+	SwingArmModel_get_minJointShiftAngle_mD1392AB1D9B003AA0CA1665ACE5CF6E35DF0C193,
+	SwingArmModel_set_minJointShiftAngle_mE6F9BECC847DF0E4A4EFA25E93BBC20EB8607B7B,
+	SwingArmModel_get_maxJointShiftAngle_m06932904B55880C096F92E35AB5EEA5D05703014,
+	SwingArmModel_set_maxJointShiftAngle_m7D79990909494637D45C6F33DCE32CDAE3C7D8FA,
+	SwingArmModel_get_jointShiftExponent_m9381E873D6E41ECD5ED98BE464BFFD60531406C8,
+	SwingArmModel_set_jointShiftExponent_mD2A78F99B74BD015BB133ED9DB6D0386F5173544,
+	SwingArmModel_get_shiftedShoulderRotationRatio_m5385028E0FD2E075416DA3F01CB0CA90BFD842A4,
+	SwingArmModel_set_shiftedShoulderRotationRatio_mC694BC16C0A68F45CF48FA75526B20C6A3D2CE5A,
+	SwingArmModel_get_shiftedElbowRotationRatio_mA505E42BD23635FB2A49B22B537542523EE89241,
+	SwingArmModel_set_shiftedElbowRotationRatio_m9E5A47BC77D79326BE244566946DF0C831B92BF3,
+	SwingArmModel_get_shiftedWristRotationRatio_m42A37604F72E2895EC75C18A710E3C09FA05AAA0,
+	SwingArmModel_set_shiftedWristRotationRatio_m195C4EAE94688F879DD3DD1C960E6378B037FE32,
+	SwingArmModel_CalculateFinalJointRotations_m0D59DAF7F27D8CC3513DA4BF000A476ABD265872,
+	SwingArmModel__ctor_mC5CABBAA2C1E63A6A1AB4AA731B33C35C796FFA7,
+	ArmModelTransition_get_transitionKeyName_m4921E2CB3E2461E113D2C61E82F17F9AC7CD1D83,
+	ArmModelTransition_set_transitionKeyName_m0A84BDF5D3FB50B3DC772276192B496490BFF595,
+	ArmModelTransition_get_armModel_mC69193F90AE562A734A973A9087F2B050413DD0F,
+	ArmModelTransition_set_armModel_m995AEEC0782699644B58E5038CDEB343EE6FD15C,
+	ArmModelTransition__ctor_mC9F1C1AE33C8B3F81EA5504E6AB0D0E522E2C9B0,
+	TransitionArmModel_get_currentArmModelComponent_m404661E224BDF00DB599E387A86C4CA1D890DD96,
+	TransitionArmModel_set_currentArmModelComponent_m6BB7B85AC38578482F2E84CCF1E53AF070D89329,
+	TransitionArmModel_Queue_m421B9D1BD17E685EA5920A2F479A164212241F84,
+	TransitionArmModel_Queue_mBCE6B344D26F6D39517BA9E2F9F78990FD8F40CB,
+	TransitionArmModel_RemoveJustStartingTransitions_m953D994D076E6F93C99630AEBEEBB329E6D6A99B,
+	TransitionArmModel_RemoveOldestTransition_m608FCE3471422FA847E4ED8B312DF7BE9B2E8387,
+	TransitionArmModel_GetPoseFromProvider_m00E26A7E6F311767928AE21A5F15312DE22662F5,
+	TransitionArmModel_UpdateBlends_m2045B9BBA0377ECAF7941D7DF432B38C2B6A9DF1,
+	TransitionArmModel__ctor_m84EB9610E749854578C03329B11E4FDA09B75CD7,
+	U3CRepeatInitializeCameraU3Ed__29__ctor_m43D6285C7E009567F5C4B8ED1A751836C62FB4AB,
+	U3CRepeatInitializeCameraU3Ed__29_System_IDisposable_Dispose_m17F14A09DBD73876EE2966D2A514388CC4341C1C,
+	U3CRepeatInitializeCameraU3Ed__29_MoveNext_mC58A32CCA720E6716563B3307D1BC42812BED55D,
+	U3CRepeatInitializeCameraU3Ed__29_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m43B90A8CE01AC6A6E1649E1E6D391B16AEDA14C2,
+	U3CRepeatInitializeCameraU3Ed__29_System_Collections_IEnumerator_Reset_mE8B6F31805AB346EED4CCC65D0DC466AAD71108A,
+	U3CRepeatInitializeCameraU3Ed__29_System_Collections_IEnumerator_get_Current_m54DAB7B21E930CDFF72500887B8D062A468AEF4E,
+};
+static const int32_t s_InvokerIndices[111] = 
+{
+	14,
+	26,
+	10,
+	32,
+	10,
+	32,
+	10,
+	32,
+	679,
+	290,
+	23,
+	23,
+	23,
+	23,
+	23,
+	14,
+	114,
+	9,
+	32,
+	23,
+	3,
+	1400,
+	1397,
+	1398,
+	10,
+	32,
+	10,
+	32,
+	1092,
+	1186,
+	1092,
+	1186,
+	1092,
+	1186,
+	1092,
+	1186,
+	679,
+	290,
+	114,
+	31,
+	1092,
+	1092,
+	1187,
+	1092,
+	1187,
+	1092,
+	1187,
+	1092,
+	1187,
+	23,
+	23,
+	114,
+	23,
+	187,
+	114,
+	114,
+	23,
+	1497,
+	290,
+	1498,
+	1499,
+	23,
+	1500,
+	1501,
+	1501,
+	1501,
+	1501,
+	1501,
+	1502,
+	23,
+	3,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	679,
+	290,
+	1499,
+	23,
+	14,
+	26,
+	14,
+	26,
+	23,
+	14,
+	26,
+	9,
+	26,
+	23,
+	23,
+	1400,
+	114,
+	23,
+	32,
+	23,
+	114,
+	14,
+	23,
+	14,
+};
+extern const Il2CppCodeGenModule g_UnityEngine_XR_LegacyInputHelpersCodeGenModule;
+const Il2CppCodeGenModule g_UnityEngine_XR_LegacyInputHelpersCodeGenModule = 
+{
+	"UnityEngine.XR.LegacyInputHelpers.dll",
+	111,
+	s_methodPointers,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+};
